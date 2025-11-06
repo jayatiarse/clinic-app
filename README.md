@@ -1,9 +1,9 @@
 # <a href="https://vinodjangid07.github.io/" target="_blank">My Portfolio</a>
 <p align="justify">This website displays my Projects, Web presence, Story, Work experience, and contact information.</p>
 
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)]((https://github.com/niteshverma01/clinic-project))
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)]((https://github.com//clinic-project))
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://niteshverma01.github.io/clinic-project/)
-[![Author](https://img.shields.io/badge/Author-Nitesh%20Verma-purple.svg)]((https://www.instagram.com/niteshverma_01/))
+[![Author](https://img.shields.io/badge/Author-Jayati%20Arse-blue)](https://github.com/jayatiarse)
 [![Latest Release](https://img.shields.io/badge/Latest%26Release-26%27Dec%202024-yellow.svg)](https://github.com/niteshverma01/clinic-project)
 
 
