@@ -2,9 +2,9 @@
 <p align="justify">This website displays my Projects, Web presence, Story, Work experience, and contact information.</p>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)]((https://github.com//clinic-project))
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://niteshverma01.github.io/clinic-project/)
+[![Website Status](https://img.shields.io/website?url=https://clinic-app.vercel.app)](https://clinic-app.vercel.app)
 [![Author](https://img.shields.io/badge/Author-Jayati%20Arse-blue)](https://github.com/jayatiarse)
-[![Latest Release](https://img.shields.io/badge/Latest%26Release-26%27Dec%202024-yellow.svg)](https://github.com/niteshverma01/clinic-project)
+[![Latest Release](https://img.shields.io/badge/Latest%26Release-26%27Dec%202024-yellow.svg)](https://github.com/jayatiarse/clinic-project)
 
 
 ![clinic](https://github.com/user-attachments/assets/5b7c4212-4f5a-4580-a91a-bc3d51070db5)
